@@ -1,0 +1,50 @@
+Package 1
+
+-> Nombre:
+  biodbUniprot
+
+-> Resumen:
+  Permite acceder y recuperar informacion de la base de datos Uniprot,
+  siendo unicamente necesario el accession number de la proteina, ademas 
+  ejecuta consultas de servicios web para buscar entradas.
+
+-> Por que la utilizariamos:
+  Este package resulta muy util para proyectos de distinta indole, pues 
+  permite acceder a informacion de proteinas teniendo el accession number 
+  de esta.
+  
+-> Observacionnes:
+  Cuenta con una descripcion clara del funcionamiento de la paqueteria
+  en su vignette, explicando desde su instalacion hasta el manejo de sus funciones. 
+  Esta paqueteria funciona en todas las plataformas, en las cuales no se 
+  han reportado errores por el momento.
+
+-> Link:
+    http://bioconductor.org/packages/release/bioc/html/biodbUniprot.html
+
+Package 2
+  
+-> Nombre:
+  surfaltr
+  
+-> Resumen:
+  Este package se centra en optimizar el procesamiento de isoformas de   
+  modo que sea mas facil tanto la comparacion como la visualizacion de    
+  estas, este package empareja las isoformas que se ingresan y predice    
+  sus topologias para de esta forma retornar una salida grafica personalizable 
+    
+-> Por que la utilizariamos:
+  Este package resulta muy util para proyectos de investigacion en el 
+  area de la salud puesto que permite predecir topologias de proteinas 
+  membranales que se pueden utilizar como blancos terapeuticos.
+  
+-> Observaciones:
+  En su vignette cuenta con una descripcion muy precisa y detallada de 
+  las funciones de la paqueteria con varios ejemplos, y tambien explica 
+  sobre el manejo de los datos que requiere y su instalacion. Esta paqueteria 
+  se encuentra en todas las plataformas, y por el momento no se han 
+  reportado algun error.
+  
+-> Link:
+  http://bioconductor.org/packages/release/bioc/html/surfaltr.html
+  
