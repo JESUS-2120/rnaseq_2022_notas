@@ -164,7 +164,7 @@
   
   ## http://rna.recount.bio/docs/quality-check-fields.html
   
-  rse_gene_SRP045638$assigned_gene_prop <-   rse_gene_SRP045638$recount_qc.gene_fc_count_all.assigned / rse_gene_SRP045638$recount_qc.gene_fc_count  _all.total
+  rse_gene_SRP045638$assigned_gene_prop <-   rse_gene_SRP045638$recount_qc.gene_fc_count_all.assigned / rse_gene_SRP045638$recount_qc.gene_fc_count_all.total
   
   summary(rse_gene_SRP045638$assigned_gene_prop)
   
